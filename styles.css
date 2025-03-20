@@ -1,12 +1,12 @@
-.one{
+#yellow{
 	background-color: yellow;
 	border: 1px solid green
 }
-.two{
+#red{
 	background-color: red;
 	border: 1px solid black;
 }
-.three{
+#green{
 	background-color: green;
 	border: 1px solid yellow;
 }
