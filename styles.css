@@ -1,1 +1,12 @@
-/*  your css code here. If applicable */
+.one{
+	background-color: yellow;
+	border: 1px solid green
+}
+.two{
+	background-color: red;
+	border: 1px solid black;
+}
+.three{
+	background-color: green;
+	border: 1px solid yellow;
+}
